@@ -1,4 +1,4 @@
-# Clean_kidney_dataset
+Clean_kidney_dataset
 Example how to clean a kidney dataset 
 Libraries:
 import numpy as np 
